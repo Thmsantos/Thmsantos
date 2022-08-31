@@ -3,5 +3,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!)](https://git.io/typing-svg)
  
 
-  <img width="100%" height="205px" margin-top="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
+
+ <div align="center">
+  <img height="200em" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Thmsantos&theme=algolia" alt="RodrigoAnjos2004" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thmsantos&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
