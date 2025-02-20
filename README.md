@@ -3,14 +3,8 @@
 
 <!-- Nome com animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!;Seja+bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!;Bem-vindo+ao+meu+GitHub!"/>
 </p>
-
-<!-- Sobre mim -->
-## 🌟 Sobre mim
-- 🚀 Apaixonado por tecnologia e desenvolvimento.
-- 💻 Trabalhando com **[React, TypeScript, Spring Boot e MongoDB](https://github.com/Thmsantos)**
-- 🎯 Sempre buscando aprender algo novo!
 
 ---
 
@@ -22,18 +16,19 @@
 
 ---
 
+<!-- Mais estatísticas -->
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Thmsantos&theme=algolia&hide_border=false&border_radius=5"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thmsantos&theme=algolia"/>
+</div>
+
+---
+
 <!-- Tecnologias -->
 ## 🚀 Tecnologias & Ferramentas  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,github,docker,figma" alt="Tecnologias" />
 </div>
-
----
-
-<!-- Contato -->
-## 📫 Como me encontrar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00004C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-00004C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thmsantos)
 
 ---
 
