@@ -8,18 +8,34 @@
 
 ---
 
-<!-- Estatísticas do GitHub -->
+<!-- Estatísticas do GitHub (Primeira linha) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thmsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&card_width=250"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&langs_count=7&theme=algolia&card_width=500"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thmsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&langs_count=7&theme=algolia&card_width=400"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<!-- Mais estatísticas -->
+<!-- Mais estatísticas (Segunda linha) -->
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Thmsantos&theme=algolia&hide_border=false&border_radius=5"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thmsantos&theme=algolia"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://streak-stats.demolab.com?user=Thmsantos&theme=algolia&hide_border=false&border_radius=5"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thmsantos&theme=algolia"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
