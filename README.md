@@ -27,7 +27,7 @@
 <!-- Tecnologias -->
 ## 🚀 Tecnologias & Ferramentas  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,github,docker,figma" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python" alt="Tecnologias" />
 </div>
 
 ---
