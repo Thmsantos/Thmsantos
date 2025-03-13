@@ -42,7 +42,9 @@
 </div>
 
 ---
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/Thmsantos/count.svg" /></p> 
 
-## 🧑‍💻 Contador de Visitantes
+---
 
-<br><p align="center"><b>Visitors Count</b></p
+<!-- Banner animado no rodapé -->
