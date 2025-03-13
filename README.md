@@ -6,24 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!;Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
----
-
-<!-- Estatísticas do GitHub -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thmsantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&langs_count=7&theme=algolia&card_width=400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <!-- Mais estatísticas -->
 <div align="center">
   <table>
