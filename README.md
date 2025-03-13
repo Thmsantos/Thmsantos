@@ -8,7 +8,7 @@
 
 ---
 
-<!-- Estatísticas do GitHub (Primeira linha) -->
+<!-- Estatísticas do GitHub -->
 <div align="center">
   <table>
     <tr>
@@ -24,19 +24,8 @@
 
 ---
 
-<!-- Mais estatísticas (Segunda linha) -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=Thmsantos&theme=algolia&hide_border=false&border_radius=5"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thmsantos&theme=algolia"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Gráfico de contribuições -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thmsantos&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
