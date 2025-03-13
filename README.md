@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!;Bem-vindo+ao+meu+GitHub!"/>
 </p>
 
+---
+
 <!-- Mais estatísticas -->
 <div align="center">
   <table>
@@ -40,18 +42,6 @@
 </div>
 
 ---
-
-## 👨‍💻 Minhas últimas contribuições
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=Thmsantos&theme=algolia&hide_border=false&border_radius=5" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🧑‍💻 Contador de Visitantes
 
