@@ -1,14 +1,25 @@
-<!-- Banner animado no topo -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00004C&height=120&section=header"/>
 
-<!-- Nome com animação -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&lines=Prazer,+Thiago!;Bem-vindo+ao+meu+GitHub!"/>
-</p>
+```ts
+class ThiagoSantos {
+  constructor(
+    private name: string = "Thiago Santos",
+    private age: string = "21",
+    private occupation: string = "Software Developer",
+    private nationality: string = "Brazilian"
+  ) {}
+}
+```
+---
+## 🚀 Tecnologias & Ferramentas  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python,mysql,azure" alt="Tecnologias" />
+</div>
 
 ---
 
-<!-- Mais estatísticas -->
+## 📈 GitHub Stats
+
 <div align="center">
   <table>
     <tr>
@@ -21,15 +32,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 🚀 Tecnologias & Ferramentas  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python" alt="Tecnologias" />
-</div>
-
-## 📈 GitHub Stats
 
 ### Contributions
 <div align="center">
@@ -45,6 +47,4 @@
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Thmsantos/count.svg" /></p> 
 
----
-
-<!-- Banner animado no rodapé -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00004C&height=120&section=footer"/>
