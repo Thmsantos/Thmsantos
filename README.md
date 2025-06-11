@@ -11,7 +11,7 @@ class ThiagoSantos {
 }
 ```
 ---
-## 🚀 Tecnologias & Ferramentas  
+🚀 Technologies & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python,mysql,azure" alt="Tecnologias" />
 </div>
