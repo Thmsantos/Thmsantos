@@ -16,7 +16,6 @@ class ThiagoSantos {
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python,mysql,azure" alt="Tecnologias" />
 </div>
 ---
-### Top Languages
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thmsantos&layout=compact&langs_count=7&theme=algolia&card_width=400" />
 </div>
