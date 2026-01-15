@@ -3,8 +3,8 @@
 ```ts
 class ThiagoSantos {
   constructor(
-    private name: string = "Thiago Santos",
-    private age: string = "21",
+    private name: string = "Thiago Messias Santos",
+    private age: string = "22",
     private occupation: string = "Software Developer",
     private nationality: string = "Brazilian"
   ) {}
