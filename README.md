@@ -13,5 +13,5 @@ class ThiagoSantos {
 ---
 ## 🚀 Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python,mysql,azure,redis,nginx" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,java,spring,mongodb,git,docker,python,mysql,azure,redis,nginx,rabbitMQ" alt="Tecnologias" />
 </div>
